@@ -1,0 +1,9 @@
+*.egg-info
+*.mp4
+*.png
+*.py[cod]
+.DS_Store
+.pytest_cache
+/dist
+[][';:]
+__pycache__/
